@@ -1,7 +1,7 @@
 
 # simulatr: Generator for Reproducible Fake Data
 
-Hello Team!
+Hello team!
 
 This repository contains the model solution of *simulatr*,
 an example package for learning about software development best-practices for R packages.
